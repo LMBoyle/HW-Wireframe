@@ -24,6 +24,7 @@ header {
     text-align: center;
     padding: 15px;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 nav {
@@ -36,27 +37,42 @@ section {
     width: 495px;
     height: 300px;
     float: left;
-    margin: 0 10px 20px 0;
-    padding: 20px 10px 10px 10px;
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 article {
+    height: 220px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.artwrap {
     background-color: #777;
     color: #ebebeb;
-    height: 200px;
-    margin: 15px;
-    padding: 10px;
+}
+
+#article {
+    background-color: #777;
+    color: #ebebeb;
+    padding: 0px;
+}
+
+.artwrap P {
+    padding: 20px;
 }
 
 aside {
     float: right;
-    width: 425px;
+    width: 445px;
     height: 300px;
-
+    margin-left: 10px;
+    margin-bottom: 20px;
 }
 
 footer {
-
+    text-align: center;
+    padding: 15px;
 }
 
 .clearfix {
@@ -71,7 +87,7 @@ h1, p {
 
 /* Borders */
 
-body {
+/* body {
     border: 3px solid red;
 }
 
@@ -81,4 +97,4 @@ body {
 
 header, nav, section, aside, footer {
     border: 1px solid black;
-}
+} */
