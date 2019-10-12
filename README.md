@@ -1,13 +1,25 @@
+# Wireframe
+
 Using HTML and CSS, show the basic structure of a webpage. 
 
-Elements: 
-Header
-Nav
-Section
-    Article
-        h1, h2, h3
-        p
-Aside
-Footer
+## Languages/Technologies
+* HTML
+* CSS
 
-Link here: https://lmboyle.github.io/HW-Wireframe/
+## Elements
+- Header
+- Nav
+- Section
+    - Article
+        - h1, h2, h3
+        - p
+- Aside
+- Footer
+
+## Demo
+![Demo Img](demoScreenshot.png)
+
+## Links
+[Deployed Link](https://lmboyle.github.io/HW-Wireframe/)
+
+[Portfolio](https://lmboyle.github.io/)
