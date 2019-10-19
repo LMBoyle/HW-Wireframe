@@ -1,10 +1,11 @@
 # Wireframe
 
-Using HTML and CSS, show the basic structure of a webpage. 
-
 ## Languages/Technologies
 * HTML
 * CSS
+
+## What It Teaches
+Learn how to use HTML and CSS, and show the basic structure of a webpage. 
 
 ## Elements
 - Header
