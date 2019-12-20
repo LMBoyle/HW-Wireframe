@@ -1,6 +1,8 @@
 # HTML Wireframe
 Front-End application showing the basic structure of a webpage.
 
+[Deployed Link](https://lmboyle.github.io/HW-Wireframe/)
+
 ## Languages/Technologies
 * HTML
 * CSS
@@ -19,6 +21,4 @@ Front-End application showing the basic structure of a webpage.
 ![Demo Img](demoScreenshot.png)
 
 ## Links
-[Deployed Link](https://lmboyle.github.io/HW-Wireframe/)
-
 [Portfolio](https://lmboyle.github.io/)
