@@ -19,5 +19,4 @@ Front-End application showing the basic structure of a webpage.
 ## Demo
 ![Demo Img](demoScreenshot.png)
 
-## Links
-[Portfolio](https://lmboyle.github.io/)
+&copy; 2019 [Luke Boyle](https://lmboyle.github.io/)
