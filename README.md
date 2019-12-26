@@ -1,6 +1,6 @@
 # [HTML Wireframe](https://lmboyle.github.io/htmlWireframe/)
 
-Front-End application showing the basic structure of a webpage.
+Front-End application showing the basic structure of a webpage
 
 ## Built With...
 * HTML
